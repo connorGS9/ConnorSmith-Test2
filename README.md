@@ -1,6 +1,9 @@
 # ConnorSmith-Test2
+
 Connor Smith
+
 EID: 901232429
+
 Email: cs36356@georgiasouthern.edu
 
 Added 5 test cases for italian restaurant system, they are 
