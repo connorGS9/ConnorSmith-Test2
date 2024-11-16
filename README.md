@@ -1,17 +1,16 @@
 # ConnorSmith-Test2
-Adding test cases for italian restaurant system, they are 1: Test placing an order, 2: Test paying for the order, 3: Test inventory update when an order is placed, 4: Test low stock alert, 5: Test order status updates
+Connor Smith
+EID: 901232429
+Email: cs36356@georgiasouthern.edu
 
+Added 5 test cases for italian restaurant system, they are 
 
-Completed & added test case 1
+1: Test placing an order, 
 
+2: Test paying for the order, 
 
-Completed & added test case 2
+3: Test inventory update when an order is placed, 
 
+4: Test low stock alert, 
 
-Completed & added test case 3
-
-
-Completed & added test case 4
-
-
-Completed & added test case 5 
+5: Test order status updates
